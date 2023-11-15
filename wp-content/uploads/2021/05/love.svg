@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 65 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-1535.71,-90.8985)">
+        <g id="Love" transform="matrix(0.0800562,0,0,0.0966764,1535.71,90.8985)">
+            <rect x="0" y="0" width="800" height="600" style="fill:none;"/>
+            <g transform="matrix(18.982,0,0,21.685,-4264.09,-6894.44)">
+                <g transform="matrix(0.527591,0,0,0.382433,81.1413,62.7982)">
+                    <circle cx="311.927" cy="703.319" r="31.199" style="fill:rgb(249,60,116);"/>
+                </g>
+                <g transform="matrix(0.580608,0,0,0.488161,21.1556,-4.15363)">
+                    <path d="M386.759,681.575C390.53,676.202 398.07,676.202 401.841,678.889C405.612,681.575 405.612,686.948 401.841,692.321C399.202,696.351 392.415,700.381 386.759,703.067C381.103,700.381 374.316,696.351 371.677,692.321C367.907,686.948 367.907,681.575 371.677,678.889C375.448,676.202 382.989,676.202 386.759,681.575Z" style="fill:white;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
